@@ -1,0 +1,13 @@
+For an array with 10 items set in random order, it took 4.376E-6 seconds to sort the array using the bubble sort algorithm.
+
+Below is the array after having been sorted by the algorithm: 
+12567501
+17761545
+19688909
+20498786
+21688523
+35523198
+39628846
+60922094
+70925107
+71652757

@@ -1,0 +1,13 @@
+For an array with 10 items set in descending order, it took 2.917E-6 seconds to sort the array using the insertion sort algorithm.
+
+Below is the array after having been sorted by the algorithm: 
+11616086
+12000393
+27623958
+30520992
+36730604
+41074307
+50176684
+69168524
+71883034
+74422596

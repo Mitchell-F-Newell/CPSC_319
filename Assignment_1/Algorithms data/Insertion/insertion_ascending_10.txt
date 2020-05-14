@@ -1,0 +1,13 @@
+For an array with 10 items set in ascending order, it took 2.188E-6 seconds to sort the array using the insertion sort algorithm.
+
+Below is the array after having been sorted by the algorithm: 
+3369768
+8698649
+18534075
+27260731
+30095356
+30276099
+51812900
+57694085
+64135271
+67655666

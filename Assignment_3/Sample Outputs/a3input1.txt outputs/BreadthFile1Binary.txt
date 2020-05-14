@@ -1,0 +1,217 @@
+Student ID Number: 8534534
+Last Name: McKay                    
+Department: CT  
+Program: 0251
+Year: 1
+
+
+Student ID Number: 8400342
+Last Name: LaPorte                  
+Department: JA  
+Program: 0045
+Year: 1
+
+
+Student ID Number: 8212399
+Last Name: Schafer                  
+Department: EST 
+Program: 0251
+Year: 1
+
+
+Student ID Number: 8499120
+Last Name: Black                    
+Department: RST 
+Program: 0341
+Year: 1
+
+
+Student ID Number: 8300500
+Last Name: Last                     
+Department: CT  
+Program: 0251
+Year: 1
+
+
+Student ID Number: 8412094
+Last Name: Phillips                 
+Department: EST 
+Program: 0251
+Year: 1
+
+
+Student ID Number: 8367091
+Last Name: White                    
+Department: TXT 
+Program: 0341
+Year: 1
+
+
+Student ID Number: 8301164
+Last Name: Bannister                
+Department: EST 
+Program: 0251
+Year: 1
+
+
+Student ID Number: 8400912
+Last Name: Green                    
+Department: RFM 
+Program: 0045
+Year: 1
+
+
+Student ID Number: 8322889
+Last Name: Morrison                 
+Department: JA  
+Program: 0045
+Year: 3
+
+
+Student ID Number: 8400001
+Last Name: Smith                    
+Department: CT  
+Program: 0251
+Year: 2
+
+
+Student ID Number: 8388231
+Last Name: Woods                    
+Department: CT  
+Program: 0251
+Year: 1
+
+
+Student ID Number: 8500453
+Last Name: Banks                    
+Department: EST 
+Program: 0251
+Year: 1
+
+
+Student ID Number: 8422991
+Last Name: Card                     
+Department: JA  
+Program: 0045
+Year: 2
+
+
+Student ID Number: 8422911
+Last Name: Johnston                 
+Department: RST 
+Program: 0341
+Year: 1
+
+
+Student ID Number: 8322188
+Last Name: Newman                   
+Department: CT  
+Program: 0251
+Year: 2
+
+
+Student ID Number: 8255999
+Last Name: Sykes                    
+Department: WET 
+Program: 0451
+Year: 2
+
+
+Student ID Number: 8599999
+Last Name: Zot                      
+Department: WET 
+Program: 0451
+Year: 1
+
+
+Student ID Number: 8503881
+Last Name: Appleford                
+Department: EST 
+Program: 0251
+Year: 1
+
+
+Student ID Number: 8508883
+Last Name: Fisher                   
+Department: TXT 
+Program: 0341
+Year: 1
+
+
+Student ID Number: 8488431
+Last Name: Hall                     
+Department: RST 
+Program: 0341
+Year: 1
+
+
+Student ID Number: 8306700
+Last Name: Jones                    
+Department: CT  
+Program: 0251
+Year: 2
+
+
+Student ID Number: 8300000
+Last Name: Walker                   
+Department: TXT 
+Program: 0341
+Year: 1
+
+
+Student ID Number: 8399000
+Last Name: Doyle                    
+Department: ENT 
+Program: 0334
+Year: 1
+
+
+Student ID Number: 8322189
+Last Name: Hopper                   
+Department: CT  
+Program: 0251
+Year: 1
+
+
+Student ID Number: 8399129
+Last Name: Jordan                   
+Department: ENT 
+Program: 0334
+Year: 1
+
+
+Student ID Number: 8500000
+Last Name: West                     
+Department: ENT 
+Program: 0334
+Year: 1
+
+
+Student ID Number: 8400000
+Last Name: Watson                   
+Department: ENT 
+Program: 0334
+Year: 2
+
+
+Student ID Number: 8301234
+Last Name: Weston                   
+Department: ENT 
+Program: 0334
+Year: 2
+
+
+Student ID Number: 8499341
+Last Name: Waters                   
+Department: TXT 
+Program: 0341
+Year: 1
+
+
+Student ID Number: 8500060
+Last Name: Watts                    
+Department: RST 
+Program: 0341
+Year: 1
+
+

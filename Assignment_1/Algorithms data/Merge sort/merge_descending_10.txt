@@ -1,0 +1,13 @@
+For an array with 10 items set in descending order, it took 6.928E-6 seconds to sort the array using the merge sort algorithm.
+
+Below is the array after having been sorted by the algorithm: 
+2478967
+4224472
+10164816
+13415994
+14218469
+18800491
+19461876
+24670703
+28533443
+47643544

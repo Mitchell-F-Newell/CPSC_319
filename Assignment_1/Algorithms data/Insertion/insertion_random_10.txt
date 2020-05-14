@@ -1,0 +1,13 @@
+For an array with 10 items set in random order, it took 3.647E-6 seconds to sort the array using the insertion sort algorithm.
+
+Below is the array after having been sorted by the algorithm: 
+1713502
+20251495
+25168336
+32629396
+34817843
+48297221
+49210020
+51692897
+64165478
+72059052

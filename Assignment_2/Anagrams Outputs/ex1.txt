@@ -1,0 +1,7 @@
+It took, 0.001142516 seconds to find and sort the anagrams.
+
+Here is the sorted array: 
+[arc][car]
+[bed]
+[dog][god]
+[pots][stop][tops]

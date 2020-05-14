@@ -1,0 +1,13 @@
+For an array with 10 items set in descending order, it took 6.2E-6 seconds to sort the array using the quick sort algorithm.
+
+Below is the array after having been sorted by the algorithm: 
+3346155
+16578679
+25509405
+27614686
+29933403
+30996117
+36724378
+45323377
+49028520
+63317930
